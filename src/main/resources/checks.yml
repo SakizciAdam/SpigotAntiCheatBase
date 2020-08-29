@@ -1,0 +1,4 @@
+Fly:
+  maxVL: 30
+  punish: 'kick %player% Fly'
+  resetVLAfterPunish: true

@@ -1,0 +1,12 @@
+name: SpigotAntiCheatBase
+author: SakizciAdam
+version: 1.0
+main: com.github.sakizciadam.spigotanticheatbase.SpigotAntiCheat
+permissions:
+  anticheat.alerts:
+    description: 'Allows to staff toggle alerts and get alerts'
+    default: op
+commands:
+  anticheat:
+    description: 'Main command'
+    usage: '/<command>'
